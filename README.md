@@ -4,6 +4,13 @@ I build small, free web tools that run entirely in the browser — no uploads, n
 
 ## Projects
 
+### [AttestedPhoto](https://attestedphoto.com/)
+Self attested photos and documents for Indian application forms, made on your phone or laptop.
+- Photo: add your signature, name and date, then crop and compress to the size the form asks for (for example 240 × 320 px, 20–50 KB)
+- Documents: add "Self Attested" or "True Copy", a signature and the date to every page of a PDF or scan
+- Also: [photo and signature merge](https://attestedphoto.com/photo-signature-merge/), [Aadhaar front and back on one page](https://attestedphoto.com/aadhaar-card-front-and-back-merge/)
+- Guide: [How to self attest a document](https://attestedphoto.com/how-to-self-attest-a-document/)
+
 ### [TNPSC Signature Compressor](https://tnpscsignaturecompressor.com/)
 Photo and signature tool for Tamil Nadu (TNPSC) exam applications.
 - Signature: resize to 400 × 133 px and compress to a 10–20 KB JPG
